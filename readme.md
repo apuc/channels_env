@@ -8,3 +8,4 @@
    * ```docker-compose exec mysql /bin/bash``` - подключение к контейнеру
    * ```mysql -u root -p``` - подключение у mysql
    * ```CREATE DATABASE {database_name};```
+6. Указать в файле ```/nginx/sites/channels.conf``` порт Nodejs из файла ```.env```
