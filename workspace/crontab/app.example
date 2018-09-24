@@ -1,0 +1,1 @@
+* * * * * laradock . /home/laradock/vars; /usr/bin/php /var/www/app/yii some:command > /var/www/yii_app/logs/some.command.log
