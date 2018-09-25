@@ -20,3 +20,10 @@
 |---   |vue_channels   | 
 |---| express_channels|
 |---| environment|
+
+
+## Локальные настройки
+
+В файл hosts добавить :
+* ```127.0.0.1  channels.com```
+* ```127.0.0.1  admin.channels.com```
